@@ -1,0 +1,12 @@
+I:\GameServer\ET6.0\ET\Bin\libkcp.dylib
+I:\GameServer\ET6.0\ET\Bin\libkcp.so
+I:\GameServer\ET6.0\ET\Bin\Model.deps.json
+I:\GameServer\ET6.0\ET\Bin\Model.dll
+I:\GameServer\ET6.0\ET\Bin\Model.pdb
+I:\GameServer\ET6.0\ET\Server\Model\obj\Debug\Server.Model.csprojAssemblyReference.cache
+I:\GameServer\ET6.0\ET\Server\Model\obj\Debug\Server.Model.AssemblyInfoInputs.cache
+I:\GameServer\ET6.0\ET\Server\Model\obj\Debug\Server.Model.AssemblyInfo.cs
+I:\GameServer\ET6.0\ET\Server\Model\obj\Debug\Server.Model.csproj.CoreCompileInputs.cache
+I:\GameServer\ET6.0\ET\Server\Model\obj\Debug\Server.Model.csproj.CopyComplete
+I:\GameServer\ET6.0\ET\Server\Model\obj\Debug\Model.dll
+I:\GameServer\ET6.0\ET\Server\Model\obj\Debug\Model.pdb

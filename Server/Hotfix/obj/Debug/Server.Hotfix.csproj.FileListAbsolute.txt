@@ -1,0 +1,12 @@
+I:\GameServer\ET6.0\ET\Bin\libkcp.dylib
+I:\GameServer\ET6.0\ET\Bin\libkcp.so
+I:\GameServer\ET6.0\ET\Bin\Hotfix.deps.json
+I:\GameServer\ET6.0\ET\Bin\Hotfix.dll
+I:\GameServer\ET6.0\ET\Bin\Hotfix.pdb
+I:\GameServer\ET6.0\ET\Server\Hotfix\obj\Debug\Server.Hotfix.csprojAssemblyReference.cache
+I:\GameServer\ET6.0\ET\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfoInputs.cache
+I:\GameServer\ET6.0\ET\Server\Hotfix\obj\Debug\Server.Hotfix.AssemblyInfo.cs
+I:\GameServer\ET6.0\ET\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CoreCompileInputs.cache
+I:\GameServer\ET6.0\ET\Server\Hotfix\obj\Debug\Server.Hotfix.csproj.CopyComplete
+I:\GameServer\ET6.0\ET\Server\Hotfix\obj\Debug\Hotfix.dll
+I:\GameServer\ET6.0\ET\Server\Hotfix\obj\Debug\Hotfix.pdb

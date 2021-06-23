@@ -1,0 +1,10 @@
+I:\GameServer\ET6.0\ET\Server\ThirdParty\bin\Debug\netcoreapp3.1\libkcp.dylib
+I:\GameServer\ET6.0\ET\Server\ThirdParty\bin\Debug\netcoreapp3.1\libkcp.so
+I:\GameServer\ET6.0\ET\Server\ThirdParty\bin\Debug\netcoreapp3.1\Server.ThirdParty.deps.json
+I:\GameServer\ET6.0\ET\Server\ThirdParty\bin\Debug\netcoreapp3.1\Server.ThirdParty.dll
+I:\GameServer\ET6.0\ET\Server\ThirdParty\bin\Debug\netcoreapp3.1\Server.ThirdParty.pdb
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\netcoreapp3.1\Server.ThirdParty.AssemblyInfoInputs.cache
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\netcoreapp3.1\Server.ThirdParty.AssemblyInfo.cs
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\netcoreapp3.1\Server.ThirdParty.csproj.CoreCompileInputs.cache
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\netcoreapp3.1\Server.ThirdParty.dll
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\netcoreapp3.1\Server.ThirdParty.pdb

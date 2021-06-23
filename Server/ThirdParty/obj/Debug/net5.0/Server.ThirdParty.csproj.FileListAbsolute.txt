@@ -1,0 +1,5 @@
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\net5.0\Server.ThirdParty.csprojAssemblyReference.cache
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\net5.0\Server.ThirdParty.GeneratedMSBuildEditorConfig.editorconfig
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\net5.0\Server.ThirdParty.AssemblyInfoInputs.cache
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\net5.0\Server.ThirdParty.AssemblyInfo.cs
+I:\GameServer\ET6.0\ET\Server\ThirdParty\obj\Debug\net5.0\Server.ThirdParty.csproj.CoreCompileInputs.cache
